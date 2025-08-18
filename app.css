@@ -184,13 +184,6 @@ body {
   height: 70px;
 }
 
-.weatherValue p {
-  font-size: var(--fg-secondary);
-  font-weight: bolder;
-  margin-left: 15px;
-  color: var(--fg);
-}
-
 .weatherDescription p {
   font-size: var(--fg-secondary);
   margin-left: 15px;
